@@ -1,0 +1,21 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+    background-size: cover;
+  }
+  
+  .landing-page h1 {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .landing-page button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
